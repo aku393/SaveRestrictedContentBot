@@ -13,15 +13,15 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "8136bd26f62a889221fc6d25cebe4e6a"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "20176556"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "7246880320:AAGPRcq_9Lr6x68Ytw1npiCVXthgVZjLg7w"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
